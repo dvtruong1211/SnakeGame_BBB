@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureSettings": {
+
+    },
+    "C_Cpp.default.includePath": [
+        "/home/truongdv/Works/beagleboneblack/kernelbuildscripts/KERNEL/include",
+    ],
+    "files.associations": {
+        "delay.h": "c"
+    }
+}
